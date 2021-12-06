@@ -5,6 +5,7 @@ from bs4 import BeautifulSoup
 import time
 
 # chromedriver浏览器路径
+# 下载对应的浏览器驱动  我的是 96.0.4664  下载地址  http://npm.taobao.org/mirrors/chromedriver/
 path = r"D:\Python\chromedriver.exe"
 
 url = input("请输入url:")
